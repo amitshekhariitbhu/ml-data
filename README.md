@@ -1,2 +1,2 @@
-# ml-data
-Data for Machine Learning
+# ml-datasets
+Datasets for Machine Learning
